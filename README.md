@@ -1,4 +1,4 @@
 # Welcome!
 =================
 
-I'm Iván, a 2nd-year Computer Science student
+I'm Iván, a 3rd-year Computer Science student
